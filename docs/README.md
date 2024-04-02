@@ -52,6 +52,9 @@ The simulation utilizes specific values for various parameters to accurately rep
 
 (Complete the table based on the provided document details.)
 
-## Bibliography
+## References
 
-The project is grounded in extensive research, with references to seminal works such as Izhikevich's models of spiking neurons and Buxton's balloon model for BOLD dynamics.
+For more information on the concepts and models used in this project, see the following publication:
+
+- [Dynamics of blood flow and oxygenation changes during brain activation: The balloon model. Nature Scientific Reports](https://www.nature.com/articles/s41598-018-23996-x)
+
