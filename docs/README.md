@@ -46,15 +46,23 @@ The model introduces a neurovascular signal `s`, responsible for the modulation 
 
 The simulation utilizes specific values for various parameters to accurately replicate neuronal and BOLD dynamics. Here's a summary table of these parameters:
 
-| Name | Value | Unit |
-|------|-------|------|
-| Uexc | 0.5   | ms^-1 |
-| Fexc | 1000  | ms   |
-| Dexc | 800   | ms   |
-| Uinh | 0.2   | ms^-1 |
-| ...  | ...   | ...  |
-
-(Complete the table based on the provided document details.)
+|-----------------|-------|---------------|
+| Name            | Value | Unit          |
+|-----------------|-------|---------------|
+| U<sub>exc</sub> | 0.5   | ms<sup>-1</sup> |
+| F<sub>exc</sub> | 1000  | ms           |
+| D<sub>exc</sub> | 800   | ms           |
+| U<sub>inh</sub> | 0.2   | ms<sup>-1</sup> |
+| F<sub>inh</sub> | 20    | ms           |
+| D<sub>inh</sub> | 700   | ms           |
+| V<sub>0</sub>   | 0.02  | a.u.         |
+| E<sub>0</sub>   | 0.8   | a.u.         |
+| α               | 0.2   | a.u.         |
+| τ<sub>s</sub>   | 800   | ms           |
+| τ<sub>0</sub>   | 1000  | ms           |
+| τ<sub>f</sub>   | 400   | ms           |
+| ε               | 0.0001| a.u.         |
+|-----------------|-------|---------------|
 
 ## References
 
