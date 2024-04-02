@@ -7,6 +7,10 @@
 
 ## Model Description
 
+![41598_2018_23996_Fig8](docs/images/41598_2018_23996_Fig8.png "Model Visualization")
+
+*Figure: Model Visualization. With permission from [Nature Scientific Reports](https://www.nature.com/articles/s41598-018-23996-x).*
+
 ### Neuronal Dynamics
 
 The simulation utilizes the Izhikevich model, characterized by two primary variables: the membrane potential (v) and a recovery variable (u). The Izhikevich model is formulated as follows, with `v` representing the membrane potential in mV, and `u` representing the recovery variable:
