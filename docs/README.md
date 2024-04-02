@@ -46,7 +46,6 @@ The model introduces a neurovascular signal `s`, responsible for the modulation 
 
 The simulation utilizes specific values for various parameters to accurately replicate neuronal and BOLD dynamics. Here's a summary table of these parameters:
 
-|-----------------|-------|---------------|
 | Name            | Value | Unit          |
 |-----------------|-------|---------------|
 | U<sub>exc</sub> | 0.5   | ms<sup>-1</sup> |
@@ -62,7 +61,6 @@ The simulation utilizes specific values for various parameters to accurately rep
 | τ<sub>0</sub>   | 1000  | ms           |
 | τ<sub>f</sub>   | 400   | ms           |
 | ε               | 0.0001| a.u.         |
-|-----------------|-------|---------------|
 
 ## References
 
