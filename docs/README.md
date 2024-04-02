@@ -7,7 +7,7 @@
 
 ## Model Description
 
-![41598_2018_23996_Fig8](docs/images/41598_2018_23996_Fig8.png "Model Visualization")
+![41598_2018_23996_Fig8](images/41598_2018_23996_Fig8.png "Model Visualization")
 
 *Figure: Model Visualization. With permission from [Nature Scientific Reports](https://www.nature.com/articles/s41598-018-23996-x).*
 
